@@ -23,3 +23,13 @@
     opacity: .5;
   }
 }
+
+.header-icon {
+    display: inline-block;
+    margin: 0;
+    height: 50px;
+    border-radius: 25%;
+    box-shadow: 2px 2px 2px 1px rgba(0,0,0,0.1);
+    margin-bottom: -16px;
+    border: 2px solid #6A6A6A;
+}
