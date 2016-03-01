@@ -19,7 +19,7 @@ Of course, the strategy of snuggling up to (or at least not immediately condemni
 
 The geographic correlation of these hate groups with the "Super Tuesday" states should not be mistaken for an indication that voters living in these states are politically aligned with them.  On the contrary, residents of these states are more keenly aware of the horrors of racism and hate groups than most.
 
-As MSNBC's Joe Scarborough asked of Trump's campaign this morning:
+MSNBC's Joe Scarborough asked of Trump's campaign this morning:
 
 > Is he really so stupid that he thinks Southerners aren’t offended by the Ku Klux Klan and David Duke?  Is he really so ignorant of Southern voters that he thinks this is the way to their heart?
 
