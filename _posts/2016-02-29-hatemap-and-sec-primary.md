@@ -3,7 +3,7 @@ layout: post
 title: Heat Map of Hate & the SEC Primary
 ---
 
-In response to the recent story about [Donald Trump's initial failure to disavow David Duke's endorsement](http://www.vox.com/2016/2/28/11129120/donald-trump-david-duke), [Vox.com](http://vox.com) posted a [map today](http://www.vox.com/2016/2/29/11134318/kkk-map-trump) showing points from the [Southern Poverty Law Center](http://www.splcenter.org/) representing active KKK chapters across the US (as of 2014).
+In response to the recent story about [Donald Trump's initial failure to disavow David Duke's endorsement](http://www.vox.com/2016/2/28/11129120/donald-trump-david-duke), [Vox.com](http://vox.com) posted a [map today](http://www.vox.com/2016/2/29/11134318/kkk-map-trump) showing points from the [Southern Poverty Law Center](http://www.splcenter.org/) representing active Ku Klux Klan chapters across the United States (as of 2014).
 
 The article concludes that while, according to one study, around 41 states had active chapters of the KKK in 2014:
 
@@ -23,4 +23,4 @@ As MSNBC's Joe Scarborough asked of Trump's campaign this morning:
 
 > Is he really so stupid that he thinks Southerners aren’t offended by the Ku Klux Klan and David Duke?  Is he really so ignorant of Southern voters that he thinks this is the way to their heart?
 
-Could be, but [all indications](http://fivethirtyeight.com/features/super-tuesday-preview-republican-presidential-election-2016/) are he'll come out on top tomorrow regardless.
+Could be, but [all indications](http://fivethirtyeight.com/features/super-tuesday-preview-republican-presidential-election-2016/) are he'll come out on top tomorrow regardless, which makes this all even more troubling.  It would appear that even *this* isn't offensive enough.
