@@ -21,6 +21,6 @@ The geographic correlation of these hate groups with the "Super Tuesday" states 
 
 As MSNBC's Joe Scarborough asked of Trump's campaign this morning:
 
-> Is he really so stupid that he thinks Southerners aren’t offended by the KKK and David Duke?
+> Is he really so stupid that he thinks Southerners aren’t offended by the Ku Klux Klan and David Duke?  Is he really so ignorant of Southern voters that he thinks this is the way to their heart?
 
 Could be, but [all indications](http://fivethirtyeight.com/features/super-tuesday-preview-republican-presidential-election-2016/) are he'll come out on top tomorrow regardless.
