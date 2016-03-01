@@ -17,7 +17,7 @@ There does indeed appear to be a high density of hate groups in the SEC primary 
 
 Of course, the strategy of snuggling up to (or at least not immediately condemning) overt racists is not a sound one, but one can see from the above map that the *perceived* racist tendencies in these states (particularly amongst those not living there) could contribute to a campaign's misguided belief that it would imperil them to reject the endorsement of a [former grand wizard of the KKK](https://en.wikipedia.org/wiki/David_Duke).
 
-The geographic correlation of these hate groups with the "Super Tuesday" states should not be mistaken for an indication that most Republicans living in these states are politically aligned with them.  On the contrary, residents of these states are more keenly aware of the horrors of racism and hate groups than most.
+The geographic correlation of these hate groups with the "Super Tuesday" states should not be mistaken for an indication that voters living in these states are politically aligned with them.  On the contrary, residents of these states are more keenly aware of the horrors of racism and hate groups than most.
 
 As MSNBC's Joe Scarborough asked of Trump's campaign this morning:
 
