@@ -22,6 +22,7 @@ author:
   email:             rob.m.gaston@gmail.com
 
 # Custom vars
+analytics_id:        UA-74433321-1
 version:             2.0.0
 github:
   repo:              https://github.com/rgaston/blog
