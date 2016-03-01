@@ -9,7 +9,7 @@ The article concludes that while, according to one study, around 41 states had a
 
 > Trump's comments, if they were intentional, [aren't] a sound electoral strategy.
 
-I wanted to take a closer look at how the SEC primary states primary states compare to the distribution of hate groups across the US, so I made the following heat map showing the density of hate group points (using the same SPLC dataset as in the [Vox.com](http://vox.com) map) against the SEC primary state boundaries (Alaska is omitted as the SPLC data only covers the contiguous US):
+I wanted to take a closer look at how the SEC primary states compare to the distribution of hate groups across the US, so I made the following heat map showing the density of hate group points (using the same SPLC dataset as in the [Vox.com](http://vox.com) map) against the SEC primary state boundaries (Alaska is omitted as the SPLC data only covers the contiguous US):
 
 <iframe width="100%" height="450" src="http://www.rgaston.com/hatemap.html" frameborder="0"></iframe>
 
