@@ -3,7 +3,7 @@ layout: post
 title: Heat Map of Hate & the SEC Primaries
 ---
 
-In response to the recent story about [Donald Trump's failure to disavow David Duke's endorsement](http://www.vox.com/2016/2/28/11129120/donald-trump-david-duke), [Vox.com](http://vox.com) posted a [map today](http://www.vox.com/2016/2/29/11134318/kkk-map-trump) showing points from the [Southern Povery Law Center](http://www.splcenter.org/) representing active KKK chapters across the US (as of 2014).
+In response to the recent story about [Donald Trump's failure to disavow David Duke's endorsement](http://www.vox.com/2016/2/28/11129120/donald-trump-david-duke), [Vox.com](http://vox.com) posted a [map today](http://www.vox.com/2016/2/29/11134318/kkk-map-trump) showing points from the [Southern Poverty Law Center](http://www.splcenter.org/) representing active KKK chapters across the US (as of 2014).
 
 The article concludes that while, according to one study, around 41 states had active chapters of the KKK in 2014, "Trump's comments, if they were intentional, [aren't] a sound electoral strategy."
 
