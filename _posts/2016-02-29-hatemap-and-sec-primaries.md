@@ -11,7 +11,10 @@ I wanted to see how the SEC primary states primary states compare to the distrib
 
 <iframe width="100%" height="450" src="http://www.rgaston.com/hatemap.html" frameborder="0"></iframe>
 
-
 There does indeed appear to be a high density of hate groups in the SEC primary states as compared to the rest of the country.  
 
-Of course, the strategy of snuggling up to (or at least not explicitly condemning) overt racists is not a sound one, but one can see from the above map that the *perceived* racist tendencies in these states (particularly amongst those not living there) could contribute to a campaign's misguided belief that it would imperil them to reject the endorsement of a [former grand wizard of the ku klux klan](https://en.wikipedia.org/wiki/David_Duke).
+Of course, the strategy of snuggling up to (or at least not explicitly condemning) overt racists is not a sound one, but one can see from the above map that the *perceived* racist tendencies in these states (particularly amongst those not living there) could contribute to a campaign's misguided belief that it would imperil them to reject the endorsement of a [former grand wizard of the KKK](https://en.wikipedia.org/wiki/David_Duke).
+
+The geographic correlation of these groups with the "Super Tuesday" states should not be mistaken for an indication that most Republicans living in these states are politically aligned with these groups.  On the contrary, residents of these states are more keenly aware of the horrors of hate groups than most.
+
+As Joe Scarborough asked of Trump's campaign this morning, "Is he really so stupid that he thinks Southerners aren’t offended by the KKK and David Duke?"
