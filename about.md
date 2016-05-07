@@ -25,7 +25,7 @@ permalink: /about/
 ### Geospatial Web Developer, Farallon Geographics, Inc.
 __San Francisco, CA__ *(July 2007-present)*:
 
-- Served as senior web developer for a consulting firm specializing in geospatial systems integration and application development for public and private enterprises
+- Served as full stack web developer for a consulting firm specializing in geospatial systems integration and application development for public and private enterprises
 - Participated in development of several large scale geospatial web applications
 - Managed teams of up to 3 developers on enterprise application development and integration projects
 - Worked very closely with Designers on UI/UX design and development
