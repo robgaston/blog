@@ -40,7 +40,7 @@ __Selected Project Work and Accomplishments:__
 - Developer on the [MEGA Jordan](http://megajordan.org/) archeological site mapping and monitoring system for the Getty Conservation institute  *(2007-2010)*
 - Developer on the open source Django based San Francisco [Enterprise Addressing System](https://bitbucket.org/sfgovdt/eas/wiki/Home) *(2009-present)*
 - Lead developer and project manager on a team providing geospatial web development support to the Bay Area Air Quality Management District, with a team of 3 developers *(2010-present)*
-- Core developer on [Arches](https://archesproject.org), an open source framework built using Django for creating cultural heritage management applications *(2013-present)*
+- Core developer on [Arches](http://archesproject.org/), an open source framework built using Django for creating cultural heritage management applications *(2013-present)*
 - Customized and deployed Arches applications for a number of clients, including the City of Los Angeles [Historic Places LA](http://historicplacesla.org/) website *(2014-present)*
 - Mentored a student in India on contributing to open source projects (Arches) as part of the Google Summer of Code 2014
 
