@@ -18,22 +18,21 @@ permalink: /about/
 | __Source Control__ | Git, Mercurial, Subversion, TFS |
 | __GIS__ | Mapbox, ESRI ArcGIS, QGIS, GeoServer |
 | __ETC__ | Jekyll, Markdown, GIMP |
-| __Personal__ | experience on Agile teams, passion for UI/UX, experience working directly with clients and managing teams, quick study, passion for new web technologies |
+| __Personal__ | experience on Agile teams, passion for UI/UX, experience working directly with clients and managing teams, quick study, passion for new web technologies, experience mentoring and teaching technical skills |
 
 ## Experience
 
-### Web Developer, Farallon Geographics, Inc.
+### Geospatial Web Developer, Farallon Geographics, Inc.
 __San Francisco, CA__ *(July 2007-present)*:
 
-- Served as lead front-end developer for a consulting firm specializing in geospatial systems integration and application development for public and private enterprises
-- Developed the user interfaces for several large scale GIS web applications
-- Integrated client-side and back-end application code
-- Developed back-end application code
+- Served as senior web developer for a consulting firm specializing in geospatial systems integration and application development for public and private enterprises
+- Participated in development of several large scale geospatial web applications
 - Managed teams of up to 3 developers on enterprise application development and integration projects
 - Worked very closely with Designers on UI/UX design and development
 - Deployed and maintained applications and systems with client IT staff
 - Scoped and planned enterprise scale projects
-- Promoted to Senior Web Developer in 2013
+- Promoted to senior position in 2013
+- Interviewed, trained and mentored junior developers
 
 __Selected Project Work and Accomplishments:__
 
@@ -44,10 +43,11 @@ __Selected Project Work and Accomplishments:__
 - Customized and deployed Arches applications for a number of clients, including the City of Los Angeles [Historic Places LA](http://historicplacesla.org/) website *(2014-present)*
 - Mentored a student in India on contributing to open source projects (Arches) as part of the Google Summer of Code 2014
 
-### Teaching Assistant
-__General Assembly__ *San Francisco, CA (January 2015-February 2016)*:
+### Teaching Assistant, General Assembly
+__San Francisco, CA__ *(January 2015-February 2016)*:
 
 - Served as teaching assistant for 3 iterations of a 10 week course (60 instructional hours per course) in front-end web development with classes of 15-30 students
+- Course material covered HTML5, CSS3 and JavaScript, including work with front end libraries such as Bootstrap and jQuery
 - Provided students with assistance during in class coding exercises
 - Maintained course notes/outline and website
 - Held weekly office hours to assist students with homework and projects
