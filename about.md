@@ -4,11 +4,13 @@ title: Rob Gaston, web developer
 permalink: /about/
 ---
 
+## Contact
+
 > rob@rgaston.com  
 
-| Skills |  |
-|-|-|
-| __Languages__ | JavaScript, Python, CoffeeScript, C#, Bash   |
+## Skills
+
+| __Languages__ | JavaScript, Python, CoffeeScript, C#, Bash, SQL   |
 | __Web__ | HTML5, CSS3, AJAX |
 | __Front End Libraries__ | jQuery, Bootstrap, Backbone, Knockout, Angular, D3, jQuery UI, ExtJS |
 | __Web Frameworks__ | Django, NodeJS/Express, Meteor, ASP.NET/ASP.NET MVC |
