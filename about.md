@@ -8,16 +8,16 @@ permalink: /about/
 
 | Skills |  |
 |-|-|
-| __Languages__ | JavaScript, Python, CoffeeScript, C#, Java, Bash   |
+| __Languages__ | JavaScript, Python, CoffeeScript, C#, Bash   |
 | __Web__ | HTML5, CSS3, AJAX |
-| __Front End Libraries__ | jQuery, Bootstrap, Backbone, Knockout, Angular, OpenLayers, D3, ExtJS |
+| __Front End Libraries__ | jQuery, Bootstrap, Backbone, Knockout, Angular, D3, jQuery UI, ExtJS |
 | __Web Frameworks__ | Django, NodeJS/Express, Meteor, ASP.NET/ASP.NET MVC |
 | __Database__ | PostgreSQL, SQL Server, MySQL, MongoDB |
 | __Mobile__ | Cordova, Android |
 | __Text Editor/IDE__ | Atom, Sublime Text, Visual Studio, PyCharm, Eclipse |
 | __Source Control__ | Git, Mercurial, Subversion, TFS |
-| __GIS__ | Mapbox, ESRI ArcGIS, QGIS, GeoServer |
-| __ETC__ | Jekyll, Markdown, GIMP |
+| __GIS__ | OpenLayers, Leaflet, PostGIS, Turf.js, Mapbox, ESRI ArcGIS, QGIS, GeoServer |
+| __ETC__ | Electron, Jekyll, Markdown, GIMP |
 | __Personal__ | experience on Agile teams, passion for UI/UX, experience working directly with clients and managing teams, quick study, passion for new web technologies, experience mentoring and teaching technical skills |
 
 ## Experience
@@ -42,6 +42,7 @@ __Selected Project Work and Accomplishments:__
 - Core developer on [Arches](http://archesproject.org/), an open source framework built using Django for creating cultural heritage management applications *(2013-present)*
 - Customized and deployed Arches applications for a number of clients, including the City of Los Angeles [Historic Places LA](http://historicplacesla.org/) website *(2014-present)*
 - Mentored a student in India on contributing to open source projects (Arches) as part of the Google Summer of Code 2014
+- Built a desktop system installation and configuration tool for OSX and Windows using NodeJS and Electron *(2016)*
 
 ### Teaching Assistant, General Assembly
 __San Francisco, CA__ *(January 2015-February 2016)*:
