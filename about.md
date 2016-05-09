@@ -7,11 +7,7 @@ permalink: /about/
 ## Contact/Links
 
 > rob@rgaston.com  
-> [GitHub](https://github.com/robgaston)  
-> [Bitbucket](https://bitbucket.org/rgaston/)  
-> [Blog](http://blog.rgaston.com/)  
-> [Twitter](https://twitter.com/robmgaston)  
-> [LinkedIn](https://www.linkedin.com/in/rob-gaston-5b379722)  
+> [GitHub](https://github.com/robgaston) | [Bitbucket](https://bitbucket.org/rgaston/) | [Blog](http://blog.rgaston.com/) | [Twitter](https://twitter.com/robmgaston) | [LinkedIn](https://www.linkedin.com/in/rob-gaston-5b379722)  
 
 ## Skills
 
