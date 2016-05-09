@@ -12,7 +12,7 @@ permalink: /about/
 
 | __Languages__ | JavaScript, Python, CoffeeScript, C#, Bash, SQL   |
 | __Web__ | HTML5, CSS3, AJAX |
-| __Front End Libraries__ | jQuery, Bootstrap, Backbone, Knockout, Angular, D3, jQuery UI, ExtJS |
+| __Front End Libraries__ | jQuery, Bootstrap, Backbone, Underscore, Knockout, Angular, D3, jQuery UI, ExtJS |
 | __Web Frameworks__ | Django, Node.js/Express, Meteor, ASP.NET/ASP.NET MVC |
 | __Database__ | PostgreSQL, SQL Server, MySQL, MongoDB |
 | __Mobile__ | Cordova, Android |
