@@ -57,6 +57,13 @@ __San Francisco, CA__ *(January 2015-February 2016)*:
 - Held weekly office hours to assist students with homework and projects
 - Provided occasional guest lectures
 
+### Instructor, GIS Education Center
+__San Francisco, CA__ *(July 2017-Present)*:
+
+- Designed cirriculum for 2 and 5 day workshops on open-source geospatial web development
+- Conducted workshops consisting of lectures and hands-on exercises with students
+- Course material covered full-stack web development for geospatial
+
 ## Education
 
 __University of California, Santa Barbara__ *(2003-2007)*:  
